@@ -1,4 +1,4 @@
-#  Dashboard
+#  Sqr
 *A superfloating, fluid and ratio-keeping grid for dashboards with the simple concept of always looking awesome.*
 [Demo](http://niklasek.se/sqr)
 
